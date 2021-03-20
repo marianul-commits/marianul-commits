@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marianul-commits (Nasturica Marian)
 - 👀 I’m interested in Swift / iOS development
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift & SwiftUI
 - 📫 How to reach me -> Discord: IceBoy#5808
 
 <!---
