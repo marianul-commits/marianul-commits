@@ -30,7 +30,9 @@ Currently, my primary focus is on mastering iOS development concepts and techniq
 
 - **Flash Chat**: Another course project I am worked on is Flash Chat, which involves integrating CocoaPods, Firebase, and custom cells. This messaging app allows users to communicate in real-time with features such as text messages, image sharing, and user authentication.
 
-- **TrackIt**: Currently, I finished a personal project called TrackIt. It involves integrating custom cells, API calls, and implementing search functionality. TrackIt is designed to help users track their daily activities and set personal goals.
+- **TrackIt**: Currently, I finished a personal project called TrackIt. It involves integrating custom cells, API calls, and implementing search functionality. TrackIt is designed to be a news aggregator.
+
+- **Shelfy**: A work-in-progress project that keeps me learning new things. Shelfy wants to be a recreation of goodreads, using a fully programmatic design, custom cells, API calls, Skeleton Views, filters, and so much more!
 
 By actively working on these projects, I am gaining hands-on experience in iOS development, exploring various frameworks and technologies, and honing my skills in creating functional and user-friendly applications.
 
