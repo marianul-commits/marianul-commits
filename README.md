@@ -27,25 +27,24 @@ You can click the Preview link to take a look at your changes.
 
 I am a seasoned Quality Assurance Engineer that learns iOS Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> using UIKit & SwiftUI 
 
-- :telescope: I’m working as a QA Engineer and ensuring that every project is as polished as possible.
+- :telescope: I’m working as a Jr. iOS Developer.
 
-- :seedling: Exploring Automation & iOS Development.
+- :seedling: Exploring the world, one photo at a time.
 
-- :zap: In my free time, I try to create applications and automation scripts.
+- :zap: In my free time, I take photos, go on walks, and give my cat lots of head scratches.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Marian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nasturicamarian)
+- :mailbox:How to reach me: [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nasturicamarian)
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright"  alt="Playwright" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="Sourcetree" **alt="Sourcetree" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" **alt="Maven" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" **alt="Trello" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" **alt="XCode" width="40" height="40"/>
+  
 </div>
