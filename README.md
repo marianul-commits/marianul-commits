@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 # About Me
 
-I am a seasoned Quality Assurance Engineer that learns iOS Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> using UIKit & SwiftUI 
+I am a Jr. iOS Developer with a vast background in QA (9+ years). You can say I switched from breaking to creating <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m working as a Jr. iOS Developer.
 
